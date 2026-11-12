@@ -1,0 +1,2 @@
+This is a hello world text file created from the Odin Project to test and get us to using git command line.
+If you find it interesting and fun, give it a try.
